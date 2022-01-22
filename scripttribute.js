@@ -1,0 +1,1 @@
+const projectName = "Elon_Musk_TributePage";
